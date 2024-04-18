@@ -9,7 +9,7 @@ let isPrime = true;
 
 if (number === 1) {
 
-    console.log("1 is neither prime nor composite number.");
+    console.log("1 is neither prime nor composite.");
 
 }
 
